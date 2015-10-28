@@ -1,3 +1,2 @@
 inicio
-edite desde cu1
 fin
